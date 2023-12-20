@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ImageDetectionApp</string>
+    <string name="your_text_goes_here">Your text goes here</string>
 </resources>
